@@ -1,3 +1,4 @@
 statistics
 reportlab
 io
+streamlit
